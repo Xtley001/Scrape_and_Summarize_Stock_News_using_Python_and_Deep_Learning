@@ -1,0 +1,34 @@
+Ticker,Summary,Label,Confidence,URL
+GME,Video game retailer is scheduled to report earnings later today.,NEGATIVE,0.9656205177307129,https://finance.yahoo.com/news/gamestop-gme-falls-more-steeply-224520779.html
+GME,Your information may be shared with third parties.,NEGATIVE,0.9903545379638672,https://www.google.com/search?q%3Dyahoo%2Bfinance%2BGME%26tbm%3Dnws%26pccc%3D1
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/why-diamond-hill-long-short-122844695.html
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/gamestop-gme-stock-drops-despite-214519430.html
+GME,Video game retailer is scheduled to report earnings later on Wednesday.,NEGATIVE,0.9778563380241394,https://finance.yahoo.com/news/why-gamestop-gme-dipped-more-214520142.html
+GME,Video game retailer is set to report earnings later today.,NEGATIVE,0.974228024482727,https://finance.yahoo.com/news/heres-why-gamestop-gme-fell-224520124.html
+GME,Video game retailer is scheduled to report earnings later on Thursday.,NEGATIVE,0.9768379926681519,https://finance.yahoo.com/news/gamestop-gme-registers-bigger-fall-214521016.html
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/gamestop-gme-stock-moves-0-215522235.html
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/investors-heavily-search-gamestop-corp-130016370.html
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/jim-cramer-says-gamestop-gme-134244137.html
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/gamestop-gme-stock-moves-1-214524513.html
+TSLA,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/hedge-funds-shorting-tesla-stock-145155395.html
+TSLA,"OpenAI to release fourth generation of ChatGPT model. Tesla, Perplexity and Google are also in the spotlight",POSITIVE,0.9967484474182129,https://finance.yahoo.com/news/tesla-inc-tsla-morgan-stanley-014425988.html
+TSLA,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/futures-hedge-funds-pull-back-143647116.html
+TSLA,"Tesla has a debt-to-cash ratio of 26.37%, which is higher than the industry average.",POSITIVE,0.9946510195732117,https://finance.yahoo.com/news/tesla-nasdaq-tsla-seems-debt-140111992.html
+TSLA,Your information may be shared with third parties.,NEGATIVE,0.9903545379638672,https://www.google.com/search?q%3Dyahoo%2Bfinance%2BTSLA%26tbm%3Dnws%26pccc%3D1
+TSLA,"Tesla’s rise is ‘part of a catch-up trade,’ says Nuveen",POSITIVE,0.9948047995567322,https://finance.yahoo.com/news/tesla-stock-to-settle-after-recent-surge-nuveen-cio-204349139.html
+TSLA,Electric car maker has surged 37% since Trump's election. Wedbush raises its price target on Tesla by 33%,POSITIVE,0.9634703993797302,https://finance.yahoo.com/news/why-tesla-stock-keeps-going-180848891.html
+TSLA,"The Dow and S&P 500 both closed above key milestones Monday. Bitcoin nears $87,000 on hopes for a crypto-friendly Trump administration",NEGATIVE,0.9606702327728271,https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-close-above-key-milestones-as-tesla-bitcoin-surge-210057604.html
+TSLA,"President-elect's team has drawn up plans to eliminate EV tax credits, Reuters says.",NEGATIVE,0.978199303150177,https://finance.yahoo.com/news/tesla-stock-falls-as-trump-trade-fades-and-ev-tax-credits-come-under-threat-170918953.html
+TSLA,"AMD, TSLA among companies to see margins improve on a year-over-year basis.",POSITIVE,0.9122101664543152,https://finance.yahoo.com/news/2-companies-unlocking-higher-profits-002900585.html
+TSLA,"Tesla, Inc. stands against other best stocks to buy and hold for 5 years.",NEGATIVE,0.6253010034561157,https://finance.yahoo.com/news/tesla-inc-tsla-best-stock-190803129.html
+BTC,"On CryptosRus, George Tung explores U.S. plan to buy up to 5% of supply. Bitcoin scarcity, U.S. buying, and more",POSITIVE,0.9878144264221191,https://finance.yahoo.com/news/u-bitcoin-plan-could-ignite-192515490.html
+BTC,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/bitcoin-dogecoin-super-micro-planet-171241925.html
+BTC,"Digital currency ‘in blue sky territory,’ VanEck’s Sigel says. ‘We’re likely to make repeated all-time highs,’ he says",POSITIVE,0.8589006066322327,https://finance.yahoo.com/news/analyst-vaneck-says-bitcoin-might-082458385.html
+BTC,"Analysts have been predicting a price of $100,000 before Christmas.",NEGATIVE,0.9923264980316162,https://uk.finance.yahoo.com/news/bitcoin-price-trump-election-cryptocurrency-poll-060012675.html
+BTC,"Coin could reach half of gold's market cap, van Eck says. Individual investors are flocking to Bitcoin ETFs",NEGATIVE,0.958739161491394,https://finance.yahoo.com/news/vaneck-ceo-boldly-predicts-bitcoin-144521276.html
+BTC,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/bitcoin-minimize-taxes-crypto-investors-172340880.html
+BTC,The Himalayan nation has been diversifying its cryptocurrency holdings. Bhutan is fifth among countries with Bitcoin holdings,POSITIVE,0.9852761030197144,https://finance.yahoo.com/news/bhutan-cashes-33-5b-bitcoin-081756733.html
+BTC,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/strategic-bitcoin-top-trumps-list-215519534.html
+BTC,Your information may be shared with third parties.,NEGATIVE,0.9903545379638672,https://www.google.com/search?q%3Dyahoo%2Bfinance%2BBTC%26tbm%3Dnws%26pccc%3D1
+BTC,"Ethereum, Aave, and Dogecoin all have potential for upside.",POSITIVE,0.8397566676139832,https://finance.yahoo.com/news/three-best-cryptocurrencies-buy-now-080900747.html
+BTC,"The world’s largest cryptocurrency has more than doubled this year. Ethereum, solana and dogecoin also rise on Wednesday",POSITIVE,0.998205304145813,https://finance.yahoo.com/news/bitcoin-touches-record-high-above-93000-on-optimism-around-trumps-pro-crypto-promises-181405097.html
